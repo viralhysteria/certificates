@@ -46,5 +46,8 @@ https://www.freecodecamp.org/certification/viralhysteria/javascript-algorithms-a
 Front End Development Libraries
 https://www.freecodecamp.org/certification/viralhysteria/front-end-development-libraries
 
+## Solutions
+https://github.com/viralhysteria/practice
+
 
 
