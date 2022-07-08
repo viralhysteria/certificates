@@ -46,6 +46,19 @@ https://www.freecodecamp.org/certification/viralhysteria/javascript-algorithms-a
 Front End Development Libraries
 https://www.freecodecamp.org/certification/viralhysteria/front-end-development-libraries
 
+## TryHackMe
+
+Complete Beginner
+![image]{https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
+
+CompTIA Pentest+
+![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
+
+Web Fundamentals
+![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKEDNDQMJL.png)
+
+## Miscellaneous
+
 ## Solutions
 https://github.com/viralhysteria/practice
 
