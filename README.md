@@ -48,13 +48,13 @@ https://www.freecodecamp.org/certification/viralhysteria/front-end-development-l
 
 ## TryHackMe
 
-Complete Beginner
-![image]{https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
-
-CompTIA Pentest+
+### Complete Beginner
 ![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
 
-Web Fundamentals
+### CompTIA Pentest+
+![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
+
+### Web Fundamentals
 ![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKEDNDQMJL.png)
 
 ## Miscellaneous
