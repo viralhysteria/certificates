@@ -27,30 +27,33 @@ https://www.udemy.com/certificate/UC-35SNIW49/
 ## FreeCodeCamp
 ![image](https://user-images.githubusercontent.com/1983431/142739620-6bb434fd-4d17-45ac-b989-e81685ed4deb.png)
 
+```
 Scientific Computing with Python
 https://www.freecodecamp.org/certification/viralhysteria/scientific-computing-with-python-v7
-
 Responsive Web Design
 https://www.freecodecamp.org/certification/viralhysteria/responsive-web-design
-
 Javascript Algorithms and Data Structures
 https://www.freecodecamp.org/certification/viralhysteria/javascript-algorithms-and-data-structures
-
 Front End Development Libraries
 https://www.freecodecamp.org/certification/viralhysteria/front-end-development-libraries
+```
 
 ## TryHackMe
 
-### Complete Beginner
-![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
-
 ### CompTIA Pentest+
 ![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png)
+```
 
+### Complete Beginner
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png
 ### Web Fundamentals
-![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKEDNDQMJL.png)
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKEDNDQMJL.png
+```
+
+**Badges + Completed Rooms**: https://tryhackme.com/p/pibacco
 
 ## Miscellaneous
+tbc...
 
 ## Solutions
 https://github.com/viralhysteria/practice
