@@ -40,8 +40,8 @@ https://www.freecodecamp.org/certification/viralhysteria/front-end-development-l
 
 ## TryHackMe
 
-### Jr Penetration Tester
-![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UDPFMPD0SZ.png)
+### Red Teaming
+![image](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AD5FEA0YQV.png)
 
 ```
 ### Complete Beginner
@@ -50,6 +50,16 @@ https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png
 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKEDNDQMJL.png
 ### CompTIA Pentest+
 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6QBV0DNRI.png
+### Offensive Pentesting
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KTYSCVXTK0.png
+### Jr Penetration Tester
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UDPFMPD0SZ.png
+### SOC Level 1
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ABBJJPAFMW.png
+### Cyber Defense
+https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HBCUI8QKIP.png  
+
+note: some certificates may show the same issuance date (01/28/23) because i forgot to claim them until now
 ```
 
 **Badges + Completed Rooms**: https://tryhackme.com/p/pibacco
